@@ -1,4 +1,5 @@
 # How traders influence their neighbours: Modelling social evolutionary processes and peer effects in agricultural trade networks
+
 ## Introduction
 
 ⼩规模交易商在经济⽋发达国家的农业价值链中发挥着重要作⽤，他们的营销渠道决策在很⼤程度上塑造了当地的交易⽹络，进⽽影响了旨在加强此类绩效和农户福利的农村政策的有效性。
